@@ -1,6 +1,6 @@
 # Flower-Recognition
 
-1. Install Anaconda
+1. Install Anaconda (already include Anaconda prompt and Jupyter)
 2. Open Anaconda prompt
 3. type "pip install tensorflow"
 4. download dataset https://www.kaggle.com/datasets/alxmamaev/flowers-recognition
